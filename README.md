@@ -8,14 +8,14 @@ ela possui dados de pessoas infectadas dia após dia, além do número de baixas
 
 # 🗂️​  2. FONTE DE DADOS
 
-* Dataset: COVID-19 [https://brasil.io/dataset/covid19/caso_full/]
+* Dataset: [COVID-19[link](https://brasil.io/dataset/covid19/caso_full/)]
 * Origem: Brasil io
 
 # 📊  3. VISUALIZAÇÃO DOS RESULTADOS
 
-* Painel de estatística de mortes por covid-19 no Brasil: [PAINEL: https://public.tableau.com/app/profile/pedro.andrade2292/viz/ESTATSTICAMORTOSPORCOVID-19/ESTATSTICAMORTOSPORCOVID-19?publish=yes]
+* Painel de estatística de mortes por covid-19 no Brasil: [PAINEL[link](https://public.tableau.com/app/profile/pedro.andrade2292/viz/ESTATSTICAMORTOSPORCOVID-19/ESTATSTICAMORTOSPORCOVID-19?publish=yes)]
 
-​# ​💻 4. TECNOLOGIAS UTILIZADAS
+# ​💻 4. TECNOLOGIAS UTILIZADAS
 
 * Tableau (visualização)
 
